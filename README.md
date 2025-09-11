@@ -84,9 +84,9 @@
   - static 선언과 GC
   - Primitive type, Reference type, Wrapper class
 - Python
-  - [GIL(Global Interpreter Lock)]
+  - GIL(Global Interpreter Lock)
   - 데이터 클래스 (dataclasses)
- 
+  - [동시성 프로그래밍](https://github.com/jungeunyooon/python-practice) 
     
 ### 4-6. System Design
 - 
