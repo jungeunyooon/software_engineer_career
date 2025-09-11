@@ -16,6 +16,7 @@
 
 ## 1. Backend
 - [Spring Boot multi threading example](https://github.com/jungeunyooon/multi-threading)
+- [(도서학습)주니어 백엔드 개발자가 반드시 알아야 할 실무 지식](backend/every-junior-backend-developer-must-know/README.md)
 
 ## 2. Kafka
 - [Kafka Cluster Example](https://github.com/jungeunyooon/kafka-cluster-example)
