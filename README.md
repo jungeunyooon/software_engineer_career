@@ -2,7 +2,9 @@
 
 ## Table of Contents
 - [1. Backend](#1-backend)
-- [2. Kafka](#2-kafka)
+  -  [1-1. Spring Framework](#1-1-spring-framework)
+- [2. Messaging & Caching](#2-messaging--caching)
+  - [2-1. Kafka](#2-1-kafka)
 - [3. Cloud Computing](#3-cloud-computing)
 - [4. Computer Science](#4-computer-science)
   - [4-1. Operation System](#4-1-operation-system)
@@ -10,15 +12,22 @@
   - [4-3. Network](#4-3-network)
   - [4-4. Data Structure and Algorithm](#4-4-data-structure-and-algorithm)
   - [4-5. Programming Language](#4-5-programming-language)
-  - [4-6. System Design](#4-7-system-design)
+  - [4-6. System Design](#4-6-system-design)
   - [4-7. Common](#4-7-common)
-- [5. Etc](#5-etc)
 
 ## 1. Backend
+### 1-1. Spring Framework
 - [Spring Boot multi threading example](https://github.com/jungeunyooon/multi-threading)
-- [(도서학습)주니어 백엔드 개발자가 반드시 알아야 할 실무 지식](backend/every-junior-backend-developer-must-know/README.md)
+- [Spring Core & IoC](./spring/core.md)
+- [Spring MVC](./spring/mvc.md)
+- [Spring Boot 구조](./spring/boot.md)
+- [Spring Data JPA](./spring/jpa.md)
+- [Spring Security](./spring/security.md)
+- [Spring Test & MockMvc](./spring/test.md)
 
-## 2. Kafka
+
+## 2. Messaging & Caching
+### 2-1. Kafka
 - [Kafka Cluster Example](https://github.com/jungeunyooon/kafka-cluster-example)
 
 ## 3. Cloud Computing
@@ -83,6 +92,11 @@
   - 싱글톤 패턴
   - static 선언과 GC
   - Primitive type, Reference type, Wrapper class
+  - [Java 기본 문법](./java/basic.md)
+  - [객체지향 프로그래밍(OOP)](./java/oop.md)
+  - [컬렉션 & 제네릭](./java/collections.md)
+  - [동시성 & 멀티스레드](./java/concurrency.md)
+ 
 - Python
   - [동시성 프로그래밍](https://github.com/jungeunyooon/python-practice) 
   - GIL(Global Interpreter Lock)
@@ -94,6 +108,7 @@
 
 ### 4-7. Common
 객체지향프로그래밍, 디자인패턴, 아키텍처패턴, 개발방법론, 소프트웨어공학 등
+- [(도서학습)주니어 백엔드 개발자가 반드시 알아야 할 실무 지식](backend/every-junior-backend-developer-must-know/README.md)
 - OOP
   - 캡슐화, 상속, 메소드 오버라이딩, 메소드 오버로딩, 다형성
   - [객체지향 5원칙: SOLID]
@@ -102,7 +117,5 @@
 
 <br>
 
-
-## 5. Etc
 
 
