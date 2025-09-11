@@ -12,14 +12,14 @@
   - [4-5. Programming Language](#4-5-programming-language)
   - [4-6. System Design](#4-7-system-design)
   - [4-7. Common](#4-7-common)
-- [5. etc](#5-etc)
-
+- [5. Etc](#5-etc)
 
 ## 1. Spring Boot
+- [멀티 스레딩 실습](https://github.com/jungeunyooon/multi-threading)
 
 
 ## 2. Kafka
-
+- [Kafka Cluster Example](https://github.com/jungeunyooon/kafka-cluster-example)
 
 ## 3. Cloud Computing
 
@@ -104,4 +104,5 @@
 
 
 
-## 5. etc
+## 5. Etc
+
