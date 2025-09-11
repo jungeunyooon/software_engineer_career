@@ -1,7 +1,7 @@
 # software_engineer_career
 
 ## Table of Contents
-- [1. Spring-Boot](#1-spring-boot)
+- [1. Backend](#1-backend)
 - [2. Kafka](#2-kafka)
 - [3. Cloud Computing](#3-cloud-computing)
 - [4. Computer Science](#4-computer-science)
@@ -15,7 +15,7 @@
 - [5. Etc](#5-etc)
 
 ## 1. Backend
-- [멀티 스레딩 실습](https://github.com/jungeunyooon/multi-threading)
+- [Spring Boot multi threading example](https://github.com/jungeunyooon/multi-threading)
 
 ## 2. Kafka
 - [Kafka Cluster Example](https://github.com/jungeunyooon/kafka-cluster-example)
