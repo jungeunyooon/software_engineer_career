@@ -14,11 +14,7 @@
   - [4-7. Common](#4-7-common)
 - [5. Etc](#5-etc)
 
-## 1. Spring Boot
-### 공식 문서
-
-
-### 실습
+## 1. Backend
 - [멀티 스레딩 실습](https://github.com/jungeunyooon/multi-threading)
 
 ## 2. Kafka
