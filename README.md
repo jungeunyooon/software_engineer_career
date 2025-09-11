@@ -15,8 +15,11 @@
 - [5. Etc](#5-etc)
 
 ## 1. Spring Boot
-- [멀티 스레딩 실습](https://github.com/jungeunyooon/multi-threading)
+### 공식 문서
 
+
+### 실습
+- [멀티 스레딩 실습](https://github.com/jungeunyooon/multi-threading)
 
 ## 2. Kafka
 - [Kafka Cluster Example](https://github.com/jungeunyooon/kafka-cluster-example)
@@ -89,7 +92,7 @@
   - 데이터 클래스 (dataclasses)
     
 ### 4-6. System Design
-- 
+- [Url Shortening](https://github.com/System-Deep-Dive/Bitly-Jungeun)
 
 
 ### 4-7. Common
@@ -103,6 +106,6 @@
 <br>
 
 
-
 ## 5. Etc
+
 
