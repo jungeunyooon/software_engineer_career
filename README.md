@@ -83,7 +83,11 @@
   - 싱글톤 패턴
   - static 선언과 GC
   - Primitive type, Reference type, Wrapper class
-
+- Python
+  - [GIL(Global Interpreter Lock)]
+  - 데이터 클래스 (dataclasses)
+ 
+    
 ### 4-6. System Design
 - 
 
