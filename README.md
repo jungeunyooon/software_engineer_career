@@ -18,12 +18,12 @@
 ## 1. Backend
 ### 1-1. Spring Framework
 - [Spring Boot multi threading example](https://github.com/jungeunyooon/multi-threading)
-- [Spring Core & IoC](./spring/core.md)
-- [Spring MVC](./spring/mvc.md)
-- [Spring Boot 구조](./spring/boot.md)
-- [Spring Data JPA](./spring/jpa.md)
-- [Spring Security](./spring/security.md)
-- [Spring Test & MockMvc](./spring/test.md)
+- [Spring Core & IoC]
+- [Spring MVC]
+- [Spring Boot 구조]
+- [Spring Data JPA]
+- [Spring Security]
+- [Spring Test & MockMvc]
 
 
 ## 2. Messaging & Caching
@@ -93,10 +93,10 @@
   - 싱글톤 패턴
   - static 선언과 GC
   - Primitive type, Reference type, Wrapper class
-  - [Java 기본 문법](./java/basic.md)
-  - [객체지향 프로그래밍(OOP)](./java/oop.md)
-  - [컬렉션 & 제네릭](./java/collections.md)
-  - [동시성 & 멀티스레드](./java/concurrency.md)
+  - [Java 기본 문법]
+  - [객체지향 프로그래밍(OOP)]
+  - [컬렉션 & 제네릭]
+  - [동시성 & 멀티스레드]
  
 - Python
   - [동시성 프로그래밍](https://github.com/jungeunyooon/python-practice) 
