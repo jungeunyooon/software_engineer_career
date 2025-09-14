@@ -82,6 +82,7 @@
 
 ### 4-5. Programming Language
 - Java
+  - [예외 처리](etc/java/exception.md)
   - [JVM, JIT Compiler, GC]
   - [GC 정리]
   - ZGC란
