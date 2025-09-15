@@ -98,11 +98,11 @@ class Repository {
         } catch (SQLException e) {
             // 체크 예외를 언체크 예외로 전환
             // 반드시 기존 예외(e)를 포함해야 스택 트레이스 추적이 용이하다.
-            [cite_start]throw new RuntimeSQLException(e); [cite: 572]
+            throw new RuntimeSQLException(e);
         }
     }
     private void runSQL() throws SQLException {
-        [cite_start]throw new SQLException("ex"); [cite: 576]
+        throw new SQLException("ex");
     }
 }
 
