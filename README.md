@@ -1,20 +1,20 @@
 # software_engineer_career
-
 ## Table of Contents
 - [1. Backend](#1-backend)
   -  [1-1. Spring Framework](#1-1-spring-framework)
 - [2. Messaging & Caching](#2-messaging--caching)
   - [2-1. Kafka](#2-1-kafka)
-- [3. Cloud Computing](#3-cloud-computing)
-- [4. Computer Science](#4-computer-science)
-  - [4-1. Operation System](#4-1-operation-system)
-  - [4-2. Database](#4-2-database)
-  - [4-3. Network](#4-3-network)
-  - [4-4. Data Structure and Algorithm](#4-4-data-structure-and-algorithm)
-  - [4-5. Programming Language](#4-5-programming-language)
-  - [4-6. System Design](#4-6-system-design)
-  - [4-7. Common](#4-7-common)
-
+- [3. Search & Analytics](#3-search--analytics)
+  - [3-1. OpenSearch](#3-1-opensearch)
+- [4. Cloud Computing](#4-cloud-computing)
+- [5. Computer Science](#5-computer-science)
+  - [5-1. Operation System](#5-1-operation-system)
+  - [5-2. Database](#5-2-database)
+  - [5-3. Network](#5-3-network)
+  - [5-4. Data Structure and Algorithm](#5-4-data-structure-and-algorithm)
+  - [5-5. Programming Language](#5-5-programming-language)
+  - [5-6. System Design](#5-6-system-design)
+  - [5-7. Common](#5-7-common)
 ## 1. Backend
 ### 1-1. Spring Framework
 - [Spring Boot multi threading example](https://github.com/jungeunyooon/multi-threading)
@@ -24,18 +24,19 @@
 - [Spring Data JPA]
 - [Spring Security]
 - [Spring Test & MockMvc]
-
-
 ## 2. Messaging & Caching
 ### 2-1. Kafka
 - [Kafka Cluster Example](https://github.com/jungeunyooon/kafka-cluster-example)
-
-## 3. Cloud Computing
-
-
-## 4. Computer Science
-
-### 4-1. Operation System
+## 3. Search & Analytics
+### 3-1. OpenSearch
+- [OpenSearch 기본 개념 및 아키텍처]
+- [인덱스 설계 및 매핑]
+- [검색 쿼리 (Full-text search, Aggregation)]
+- [성능 최적화 및 튜닝]
+- [OpenSearch vs Elasticsearch]
+## 4. Cloud Computing
+## 5. Computer Science
+### 5-1. Operation System
 - [멀티스레드와 멀티프로세스]
 - [교착상태(deadlock)의 발생조건]
 - [다익스트라의 은행원 알고리즘]
@@ -50,8 +51,7 @@
 - [Polling과 Interrupt]
 - [Sync와 Async, Blocking과 Non-blocking]
 - [Context Switching이 진행되는 단계]
-
-### 4-2. Database
+### 5-2. Database
 - [데이터 무결성 (Data Integrity)]
 - [데이터베이스 인덱스]
 - [데이터베이스 정규화]
@@ -60,14 +60,12 @@
 - [DDL / DML / DCL / TCL]
 - [DELETE / TRUNCATE / DROP]
 - [Top 50 SQL Interview Questions]
-
-### 4-3. Network
+### 5-3. Network
 - [TCP and UDP]
 - [TCP's 3-way handshake, 4-way handshake]
 - [HTTP 요청 메소드: GET과 POST의 차이]
 - 웹 브라우저가 웹 페이지의 이미지를 보여주기까지의 과정
-
-### 4-4. Data Structure and Algorithm
+### 5-4. Data Structure and Algorithm
 - Array와 Linked List 비교하기
 - Stack과 Queue (Stack으로 Queue 구현하기)
 - [Tree]
@@ -79,8 +77,7 @@
 - [Sorting]
 - Recursion
 - Dynamic Programming
-
-### 4-5. Programming Language
+### 5-5. Programming Language
 - Java
   - [예외 처리](etc/java/exception.md)
   - [JVM, JIT Compiler, GC]
@@ -103,11 +100,9 @@
   - GIL(Global Interpreter Lock)
   - 데이터 클래스 (dataclasses)
     
-### 4-6. System Design
+### 5-6. System Design
 - [Url Shortening](https://github.com/System-Deep-Dive/Bitly-Jungeun)
-
-
-### 4-7. Common
+### 5-7. Common
 객체지향프로그래밍, 디자인패턴, 아키텍처패턴, 개발방법론, 소프트웨어공학 등
 - [(도서학습)주니어 백엔드 개발자가 반드시 알아야 할 실무 지식](backend/every-junior-backend-developer-must-know/README.md)
 - OOP
@@ -116,7 +111,4 @@
 - 객체-관계 매핑 (Object Relational Mapping, ORM) 
 - Lambda architecture
 
-<br>
-
-
-
+---
