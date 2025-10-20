@@ -105,7 +105,7 @@
 ### 5-7. Common
 객체지향프로그래밍, 디자인패턴, 아키텍처패턴, 개발방법론, 소프트웨어공학 등
 - [(도서학습)주니어 백엔드 개발자가 반드시 알아야 할 실무 지식](backend/every-junior-backend-developer-must-know/README.md)
-- [(도서학습)컴퓨터 밑바닥의 비밀(backend/the-secret-of-the-computer/REAMDE.md]
+- [(도서학습)컴퓨터 밑바닥의 비밀](backend/the-secret-of-the-computer/REAMDE.md)
 - OOP
   - 캡슐화, 상속, 메소드 오버라이딩, 메소드 오버로딩, 다형성
   - [객체지향 5원칙: SOLID]
