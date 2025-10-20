@@ -29,6 +29,7 @@
 - [Kafka Cluster Example](https://github.com/jungeunyooon/kafka-cluster-example)
 ## 3. Search & Analytics
 ### 3-1. OpenSearch
+- [(도서학습)엘라스틱서치를 활용한 벡터 검색 실무 가이드](open-search/vector-search-for-practitioners-with-elastic/README.md)
 - [OpenSearch 기본 개념 및 아키텍처]
 - [인덱스 설계 및 매핑]
 - [검색 쿼리 (Full-text search, Aggregation)]
